@@ -5,6 +5,8 @@
  */
 'use strict';
 
+var pi="lol";
+
 /**
  * @fileoverview A collection of eslint rules written specifically for
  * Lighthouse. These are included by the eslint-plugin-local-rules plugin.
